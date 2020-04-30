@@ -9,3 +9,5 @@
 三月: [第一期](https://github.com/qiwang97/weekly/blob/master/docs/weekly-1.md)
 
 四月: [第二期](https://github.com/qiwang97/weekly/blob/master/docs/weekly-2.md) [第三期](https://github.com/qiwang97/weekly/blob/master/docs/weekly-3.md) [第四期](https://github.com/qiwang97/weekly/blob/master/docs/weekly-4.md) [第五期](https://github.com/qiwang97/weekly/blob/master/docs/weekly-5.md)
+
+五月: [第六期](https://github.com/qiwang97/weekly/blob/master/docs/weekly-6.md)
